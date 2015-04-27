@@ -1,4 +1,5 @@
 Discerning a pattern.tex
+section_Roadmap_for_the_other__.tex
 Polling for ideas.tex
 Moderation.tex
 Roles.tex
